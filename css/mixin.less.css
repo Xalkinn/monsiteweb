@@ -1,0 +1,12 @@
+.fa() {
+	font-family: 'FontAwesome';
+}
+
+.borderRadius(@ang) {
+	-webkit-border-radius: @ang;
+	-khtml-border-radius: @ang;
+	-moz-border-radius: @ang;
+	-ms-border-radius: @ang;
+	-o-border-radius: @ang;
+	border-radius: @ang;
+}
