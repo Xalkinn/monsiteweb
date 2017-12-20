@@ -2,3 +2,9 @@
     color : red;
     font-size: large;
 }
+
+.blog_contenu{
+    font-size: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
